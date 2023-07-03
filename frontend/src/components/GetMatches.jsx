@@ -439,7 +439,11 @@ function GetMatches() {
           </div>
           <h2>Log in to access your account</h2>
           <input ref={oldUsername} placeholder="Username"></input>
-          <input ref={oldPassword} placeholder="Password"></input>
+          <input
+            type="password"
+            ref={oldPassword}
+            placeholder="Password"
+          ></input>
           <div>
             {/* log in button with login function */}
             <button onClick={login}>Log in</button>
@@ -448,7 +452,11 @@ function GetMatches() {
           <div>
             <h2>Sign up</h2>
             <input ref={newUsername} placeholder="Username"></input>
-            <input ref={newPassword} placeholder="Password"></input>
+            <input
+              type="password"
+              ref={newPassword}
+              placeholder="Password"
+            ></input>
             <div>
               {/* sign up button with newUser function */}
               <button onClick={newUser}>Sign up</button>

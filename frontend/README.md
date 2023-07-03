@@ -20,3 +20,7 @@ Measures I have taken to ensure security of this app include using Helmet which 
 I am not making use of any APIs for this app.
 
 I have made use of renderer as well as mocha and chai for the testing of this app. To test, type npm test in the terminal and if you want to do the snapshot test you will need to change the package.json file under "scripts" and change the value of "test" to "react-scripts test".
+
+github link: https://github.com/RonaldodePao01/SportsWatch
+
+Unfortunately, due to Heroku not having a free service anymore I am unable to deploy this app.
