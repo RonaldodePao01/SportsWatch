@@ -1,5 +1,5 @@
 // importing the schema
-const user = require("../userSchema.js");
+const user = require("../userSchema");
 
 // creating a function to create an instance in the database
 exports.create = async function (req, res) {

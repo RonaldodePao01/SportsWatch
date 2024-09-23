@@ -29,8 +29,8 @@ mongoose.connection.once("open", function () {
 });
 
 // making use of the routes
-let indexRouter = require("./routes/index");
-let usersRouter = require("./routes/users");
+let indexRouter = require("../middleware-app/routes/index");
+let usersRouter = require("../middleware-app/routes/users");
 
 let app = express();
 

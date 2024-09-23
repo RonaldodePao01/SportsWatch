@@ -1,5 +1,5 @@
 // importing the schema
-const match = require("../matchSchema.js");
+const match = require("../matchSchema");
 
 // creating a function that creates an instance of a fixture in the database
 exports.create = async function (req, res) {

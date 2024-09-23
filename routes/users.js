@@ -11,6 +11,7 @@ const {
   findAll,
   updateMatch,
 } = require("../controllers/match.controller");
+
 const { findOne } = require("../controllers/user.controller");
 // importing the user and match schemas
 const match = require("../matchSchema");
