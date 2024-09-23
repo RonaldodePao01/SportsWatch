@@ -33,8 +33,8 @@ Unfortunately, due to Heroku not having a free service anymore I am unable to de
 
 ### Screenshot
 
-Screenshot of the applications log in/sign up screen ![Result of searching for "Cape Town" using the app](./public/images/screenshot-1.PNG)
+Screenshot of the applications log in/sign up screen ![login/signup page](./public/images/screenshot-1.PNG)
 
-Screenshot of the applications UI once logged in ![Result of searching for "Cape Town" using the app](./public/images/screenshot-2.PNG)
+Screenshot of the applications UI once logged in ![app UI for users](./public/images/screenshot-2.PNG)
 
-Screenshot of the applications UI logged in as an admin ![Result of searching for "Cape Town" using the app](./public/images/admin.PNG)
+Screenshot of the applications UI logged in as an admin ![app UI for admin](./public/images/admin.PNG)
